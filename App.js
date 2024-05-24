@@ -6,8 +6,13 @@ const app = http.createServer((req, res) => {
         const pageData= fs.readFileSync("pages/index.html")
 
 //        res.write("<h1> Server started.....</h1>")
+  sdfghjkl
+  sdfghjxdfghjkertyurtyu
+  ertyuiefyegydgweudwebdvwfqefdfbqdedwebd
+  ewdeetdbyewdqvfqd bvqv d
+  qwedvdyqfdqyd wqd   4
   
-       res.write(pageData)
+  res.write(pageData)
         res.end()
     }
     else if (req.url === "/about") {
